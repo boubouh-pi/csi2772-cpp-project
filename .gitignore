@@ -1,0 +1,6 @@
+*.class
+.DS_Store
+.cache/
+desktop.ini
+node_modules/
+~$*
